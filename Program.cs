@@ -37,7 +37,7 @@ void Main()
                       \ \'._  ` '_.'
                        `^^` `^^^`
             ");
-        Console.WriteLine("Type your question here:");
+        Console.WriteLine("Type your question below:");
         question = Console.ReadLine();
 
         if (question == "")
