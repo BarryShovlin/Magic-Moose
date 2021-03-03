@@ -42,8 +42,8 @@ void Main()
 
         if (question == "")
         {
-            Console.WriteLine("You missed your chance");
-            break;
+            Console.WriteLine("Don't waste my time, child...");
+
         }
         else
         {
